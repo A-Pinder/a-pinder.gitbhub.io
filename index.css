@@ -1,0 +1,125 @@
+#sub {
+	color: white; 
+	text-align: center;
+	margin: 0px 50px 50px 50px;
+	font-family: 'La Belle Aurore', cursive;
+	font-size: 30px;
+}
+
+h1 {
+	text-align: center;
+	font-family: 'La Belle Aurore', cursive;
+	font-size: 60px;
+	margin: 0;
+	padding-top: 30px;
+	color: white;
+}
+
+#header {
+	text-align: : center;
+	background: url("http://s3.amazonaws.com/spoonflower/public/design_thumbnails/0124/2629/rrrcrayon_background-grey_highres.png");
+}
+
+ul {
+	text-align: center;
+	padding: 10px;
+	background: black;
+	color: white;
+	margin: 0 0 20px 0;
+}
+
+li {
+	display: inline;
+	padding: 0px 10px 0px 10px;
+}
+
+a {
+	color: white;
+	font-family: cursive;
+	font-size: 20px;
+}
+
+body {
+	background: url("http://theartmad.com/wp-content/uploads/Grey-Background-7.jpg");
+	background-size: cover;
+	text-align: center;
+}
+
+#header #logo {
+	height: 200px;
+	width: 150px;
+	margin: 30px 0 0 0;
+	border-radius: 30px;
+	border: solid 4px black;
+	text-align: center;
+}
+
+#social-buttons button {
+	color: white;
+	border: solid 2px black;
+	border-radius: 30px;
+	height: 50px;
+	width: 100px;
+	margin-bottom: 50px;
+}
+
+.facebook {
+	background-color: #4868ac; 
+}
+
+.twitter {
+	background-color: #00acee;
+}
+
+.instagram {
+	background-color: #ff6666;
+}
+
+#email {
+	color: black;
+	font-size: 20px;
+	font-family: cursive;
+	margin: 20px;
+}
+#email button {
+	color: white;
+	background-color: black;
+	border-color: black;
+}
+#social {
+	text-align: center;
+}
+.text {
+	border: 4px #f2f2f2 solid;
+	border-radius: 30px;
+	background-color: black;
+	font-size: 30px;
+	font-family: cursive;
+	margin: 50px 20px 50px 20px;
+	color: #f2f2f2;
+	width: 550px;
+	height: 400px;
+}
+
+.video {
+	margin: 50px 20px 50px 20px;
+}
+
+.container {
+	max-height: 700px;
+}
+
+.picture img {
+	height: 300px;
+	width: 350px;
+	margin: 50px 20px 50px 20px;
+	border: solid 4px black;
+	text-align: center;
+}
+.picture img:hover{
+	height: 500px;
+	width: 550px;
+	margin: 50px 20px 50px 20px;
+	border: solid 4px black;
+	text-align: center;
+}
